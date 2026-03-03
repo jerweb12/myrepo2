@@ -1,0 +1,9 @@
+---
+title: "Chapter 9 Practice"
+output: html_notebook
+---
+```{r}
+library(readr)
+dplace_df <- read_csv("data/Values_Transport_dplace.csv")
+```
+
